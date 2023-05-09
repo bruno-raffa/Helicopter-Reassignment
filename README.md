@@ -1,8 +1,4 @@
- X - Coord Y-Coord # Assigned Projected Demand Location #1 36 20 6 7 Location #2 23 30 2 3 Location #3 23 56 3 2 Location #4 10 15 3 4 Location #5 5 5 4 2 
-
-
-
-Air Ambulance Reassignment Problem
+ **Air Ambulance Reassignment Problem
 This project solves an Air Ambulance Reassignment Problem using a hybrid quantum-classical approach. The problem is to reassign air ambulances in order to meet changing demand projections. The approach used here involves using a Constrained Quadratic Model (CQM) that is formulated as a Quadratic Unconstrained Binary Optimization (QUBO) problem. The solution is computed using the LeapHybridCQMSampler.
 
 The problem is defined here is defined here: https://miro.neos-server.org/app/airambulance.
