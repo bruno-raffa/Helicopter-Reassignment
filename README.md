@@ -8,3 +8,4 @@ An air ambulance (helicopter) service provider has a set of locations with a num
 As an example, consider an air ambulance service provider with 5 locations in the Midwest. The company evaluates the need to relocate helicopters based on the monthly projected demand for each location. The cost of reassigning a helicopter from site ii to site jj is $100 per kilometer of distance from site (i) to site (j). For each of the company's locations, the table below lists the (x) and (y) coordinates of the site, the number of helicopters currently assigned, and the projected demand for the next period. To make the toy example more realistic some randomly midwest cities were assigned to the Locations. The coordinates do not pertain to the cities, the names were assigned just for didactic purposes to reflect a real case where the name of the locations are known
 
 
+
