@@ -1,5 +1,5 @@
  ## Air Ambulance Reassignment Problem
-This project solves an Air Ambulance Reassignment Problem using a hybrid quantum-classical approach. The problem is to reassign air ambulances in order to meet changing demand projections. The approach used here involves using a Constrained Quadratic Model (CQM) The solution is computed using the LeapHybridCQMSampler from dvawe (https://cloud.dwavesys.com/)
+This project solves an Air Ambulance Reassignment Problem using a hybrid quantum-classical approach. The problem is to reassign air ambulances in order to meet changing demand projections. The approach used here involves the use of a Constrained Quadratic Model (CQM). The solution is computed using the LeapHybridCQMSampler from dvawe (https://cloud.dwavesys.com/)
 
 The problem is defined here: https://miro.neos-server.org/app/airambulance.
 
